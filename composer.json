@@ -1,0 +1,10 @@
+{
+    "name": "Tianmiao/http",
+    "description": "Tianmiao Http",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Tianmiao\\Http\\": "src"
+        }
+    }
+}
