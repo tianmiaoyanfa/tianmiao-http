@@ -1,5 +1,5 @@
 {
-    "name": "tianmiao/http",
+    "name": "tm/http",
     "description": "Tianmiao Http",
     "require": {},
     "autoload": {
